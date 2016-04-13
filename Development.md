@@ -1,0 +1,2 @@
+# Coming Soon #
+> The developer's API is present but I am not ready to provide official support for it. You can still write modules for UMC by using the **umc-core.inc** incude file packaged with Ultimate Mapchooser, as well as looking at the source code for existing Ultimate Mapchooser modules.
